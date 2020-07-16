@@ -1,0 +1,31 @@
+.card {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card1 {
+    background-size: cover;
+    background-position: bottom;
+    min-height: 400px;
+    width: 50%;
+}
+
+.card2 {
+    background-size: cover;
+    background-position: bottom;
+    min-height: 400px;
+    width: 50%;
+}
+
+
+.player-wrapper {
+    position: relative;
+
+}
+
+.react-player {
+    margin:20px;
+    position: relative;
+    /* top: 0;
+    left: 0; */
+}
